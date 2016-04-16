@@ -1,0 +1,2 @@
+# buddiez-ionic
+Buddiez App
